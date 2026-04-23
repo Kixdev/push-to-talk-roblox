@@ -1,4 +1,4 @@
-# 🎙️ **Push to Talk by Kixdev**
+# 🎙️ **Push to Talk Roblox Script by Kixdev**
 
 > **A polished in-game Roblox push-to-talk utility with custom voice controls, elegant interface behaviour, mobile support, and a seamless open-mic fallback system.**
 
