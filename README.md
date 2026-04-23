@@ -91,7 +91,7 @@ When **push-to-talk is switched off**, the script does **not** block voice usage
 
 Instead, it returns the microphone to a **normal open-mic behaviour**, allowing the player to speak freely just as they would with standard Roblox voice chat.
 
-This is important because it means the script is not restrictive — users can choose between:
+This is important because it means the script is not restrictive - users can choose between:
 
 - **controlled push-to-talk communication**
 - **normal always-ready voice behaviour**
