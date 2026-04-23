@@ -1,5 +1,4 @@
 --==================================================
--- Push to Talk by Kixdev
 -- Default: PUSH TO TALK ON
 -- Hold bound key/mouse = talk
 -- Release = stop talking
