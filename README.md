@@ -9,7 +9,7 @@
 **Push to Talk by Kixdev** is a standalone **client-side Roblox voice utility** designed to improve the way players interact with in-game voice chat.  
 Its primary purpose is to provide a **more practical, controlled, and familiar voice experience**, similar to what players would expect from modern communication platforms.
 
-Rather than relying purely on Roblox’s default voice workflow, this script introduces a **custom push-to-talk system** with an elegant in-game interface, responsive status feedback, and flexible input support for both **desktop** and **touchscreen** users.
+Rather than relying purely on Roblox’s default voice workflow, this script introduces a **custom push-to-talk system** with in-game interface, responsive status feedback, and flexible input support for both **desktop** and **touchscreen** users.
 
 It is particularly useful in social experiences, hangout games, roleplay environments, exploration worlds, and voice-based communities where players may wish to control precisely **when** they are speaking.
 
